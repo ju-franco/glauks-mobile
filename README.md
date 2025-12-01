@@ -1,5 +1,9 @@
 # GLAUKS: Mapeamento e Gestão Digital para Biblioteca Escolar (MOBILE)
 
+<img src="telas/logo.png" alt="Logo GLAUKS" width="300px" padding-left/>
+
+---
+
 > **Trabalho de Conclusão de Curso**: Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio — **ETEC de Hortolândia, 2025**  
 > Orientação: Prof. Priscila Batista Martins e Ralfe Della Croce Filho
 
